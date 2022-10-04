@@ -3,6 +3,7 @@
 // Copyright 2019-Present Datadog, Inc.
 
 //go:build cgo
+// +build cgo
 
 package datadog
 
